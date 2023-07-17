@@ -1,23 +1,12 @@
 import React from 'react';
 
 const About = () => {
-return (
-<>
-<h1>Tourism in India</h1>
-</>,
-<>
-<h6>
-<p>Tourism in India is 4.6% of the country's GDP. The World Travel and Tourism Council
-calculated that tourism generated ₹13.2 lakh crore (US$170 billion) or 5.8% of India's GDP and
-supported 32.1 million jobs in 2021. Even though, these numbers were lower than the pre-pandemic
-figures; the country's economy witnessed a significant growth in 2021 after the massive downturn
-
-during 2020. The sector is predicted to grow at an annual rate of 7.8% to ₹33.8 lakh crore (US$420
-billion) by 2031 (7.2% of GDP).[1] In October 2015, India's medical tourism sector was estimated to
-be worth US$3 billion, and it is projected to grow to US$7–8 billion by 2020.[2] In 2014, 184,298
-foreign patients travelled to India to seek medical treatment.[3]
-
-According to Ministry of Tourism, Over 6.19 million and 1.52 million foreign tourists arrived in India
+    return (
+        
+        <>
+        <h1>Tourism</h1>
+            <h4>
+            <p>According to Ministry of Tourism, Over 6.19 million and 1.52 million foreign tourists arrived in India
 in 2022 & 2021 respectively compared to 10.93 million in 2019, representing a -44%
 degrowth.[4][5]India has bigger domestic tourist population so it's not dependent on foreign tourist
 much. This makes India the 22nd most visited nation in the world and 8th in Asia and Pacific .[6]
@@ -45,11 +34,12 @@ the process, the Ministry consults and collaborates with other stakeholders in t
 various central ministries/agencies, state governments, union territories and private sector
 representatives. Concerted efforts are being made to promote niche tourism products such as rural,
 cruise, medical and eco-tourism.[14] The Ministry of Tourism maintains the Incredible India
-campaign focused on promoting tourism in India.
-</p>
-</h6>
-</>
-);
+campaign focused on promoting tourism in India.Tourism is travel for pleasure or business, and the commercial activity of providing and supporting such travel. The World Tourism Organization defines tourism more generally, in terms which go "beyond the common perception of tourism as being limited to holiday activity only", as people "travelling to and staying in places outside their usual environment for not more than one consecutive year for leisure and not less than 24 hours, business and other purposes". Tourism can be domestic or international, and international tourism has both incoming and outgoing implications on a country's balance of payments.</p>
+</h4>
+        </>
+    );
 };
 
 export default About;
+
+
